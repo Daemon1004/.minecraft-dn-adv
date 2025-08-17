@@ -1,11 +1,7 @@
 
-[harvester]
-	uses_knife = true
-
 [slicer]
 	consume_tool_durability = true
 	ignore_rotation = false
-	jei_show_converted_recipes = false
 
 [basin_cooking]
 	enabled = true
@@ -16,6 +12,4 @@
 	fluid_capacity = 300
 	#Range: 0 ~ 2048
 	fluid_per_use = 100
-	#Range: 1 ~ 32
-	horizontal_range = 5
 
