@@ -3,9 +3,14 @@ crash-reports/
 shaderpacks/
 tacz_backup/
 defaultconfigs/
-options.txt
 server-resource-packs/
 schematics/
 blueprints/
 xaero/
+saves/
+options.txt
+usercache.json
+usernamecache.json
+config/yes_steve_model/cache/server/
+config/yes_steve_model/cache/client/
 .gitattributes
