@@ -13,3 +13,8 @@ usercache.json
 usernamecache.json
 config/yes_steve_model/cache
 XaeroWaypoints*/
+config/embeddium-fingerprint.json
+config/embeddium-options.json
+config/embeddium-mixins.properties
+config/oculus.properties
+config/xaerominimap_entities.json
