@@ -1,0 +1,12 @@
+logs/
+crash-reports/
+shaderpacks/
+tacz_backup/
+defaultconfigs/
+options.txt
+server-resource-packs/
+schematics/
+blueprints/
+tacz/
+xaero/
+.gitattributes
