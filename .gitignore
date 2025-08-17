@@ -11,6 +11,5 @@ saves/
 options.txt
 usercache.json
 usernamecache.json
-config/yes_steve_model/cache/server/
-config/yes_steve_model/cache/client/
-.gitattributes
+config/yes_steve_model/cache
+XaeroWaypoints*/
