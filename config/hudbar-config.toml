@@ -1,0 +1,97 @@
+
+["HUD Bar Configuration"]
+	#血量文本缩放比例
+	#Range: 0.5 ~ 2.0
+	healthTextScale = 1.0
+	#护甲文本缩放比例
+	#Range: 0.5 ~ 2.0
+	armorTextScale = 1.0
+
+	["HUD Bar Configuration"."Display Settings"]
+		#是否启用模组
+		enableMod = true
+		#是否显示血条
+		showHealthBar = true
+		#是否显示护甲条
+		showArmorBar = true
+		#是否显示血量文本
+		showHealthText = true
+		#是否显示护甲文本
+		showArmorText = true
+		#是否以百分比形式显示血量
+		showHealthAsPercentage = true
+		#是否以百分比形式显示饥饿值
+		showHungerAsPercentage = true
+
+	["HUD Bar Configuration"."Position Settings"]
+		#血条X轴偏移量
+		#Range: -1000 ~ 1000
+		healthBarXOffset = 0
+		#血条Y轴偏移量
+		#Range: -1000 ~ 1000
+		healthBarYOffset = 0
+		#护甲条X轴偏移量
+		#Range: -1000 ~ 1000
+		armorBarXOffset = 0
+		#护甲条Y轴偏移量
+		#Range: -1000 ~ 1000
+		armorBarYOffset = 0
+
+	["HUD Bar Configuration"."Text Position Settings"]
+		#血量文本X轴偏移量
+		#Range: -1000 ~ 1000
+		healthTextXOffset = 0
+		#血量文本Y轴偏移量
+		#Range: -1000 ~ 1000
+		healthTextYOffset = 0
+		#护甲文本X轴偏移量
+		#Range: -1000 ~ 1000
+		armorTextXOffset = 0
+		#护甲文本Y轴偏移量
+		#Range: -1000 ~ 1000
+		armorTextYOffset = 0
+
+	["HUD Bar Configuration"."Hunger Bar Settings"]
+		#是否显示饥饿条
+		showHungerBar = true
+		#是否显示饥饿值文本
+		showHungerText = true
+		#饥饿条X轴偏移
+		#Range: -100 ~ 100
+		hungerBarXOffset = 0
+		#饥饿条Y轴偏移
+		#Range: -100 ~ 100
+		hungerBarYOffset = 0
+		#饥饿值文本X轴偏移
+		#Range: -100 ~ 100
+		hungerTextXOffset = 0
+		#饥饿值文本Y轴偏移
+		#Range: -100 ~ 100
+		hungerTextYOffset = 0
+		#饥饿值文本缩放比例
+		#Range: 0.5 ~ 2.0
+		hungerTextScale = 0.75
+
+	["HUD Bar Configuration"."Air Bar Settings"]
+		#是否显示氧气条
+		showAirBar = true
+		#是否显示氧气值文本
+		showAirText = true
+		#氧气条X轴偏移
+		#Range: -100 ~ 100
+		airBarXOffset = 0
+		#氧气条Y轴偏移
+		#Range: -100 ~ 100
+		airBarYOffset = 0
+		#氧气值文本X轴偏移
+		#Range: -100 ~ 100
+		airTextXOffset = 0
+		#氧气值文本Y轴偏移
+		#Range: -100 ~ 100
+		airTextYOffset = 0
+		#氧气值文本缩放比例
+		#Range: 0.5 ~ 2.0
+		airTextScale = 0.75
+		#是否以百分比形式显示氧气值
+		showAirAsPercentage = true
+
