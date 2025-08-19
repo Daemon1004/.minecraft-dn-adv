@@ -4,11 +4,11 @@
     "chance": 10
   },
   {
-    "biomeName": "biomesoplenty:boreal_forest",
-    "chance": 20
-  },
-  {
     "biomeName": "biomesoplenty:rainbow_hills",
     "chance": 10
+  },
+  {
+    "biomeName": "biomesoplenty:boreal_forest",
+    "chance": 20
   }
 ]

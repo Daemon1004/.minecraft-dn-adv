@@ -21,3 +21,4 @@ config/immediatelyfast.json
 config/ferritecore-mixin.toml
 config/entityculling.json
 fabricloader.log
+config/fabric/indigo-renderer.properties
