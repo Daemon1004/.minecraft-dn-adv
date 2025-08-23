@@ -25,4 +25,4 @@ fabricloader.log
 servers.dat
 servers.dat_old
 /config/fabric
-config/remote_player_waypoints_for_xaero/general.json5
+/config/remote_player_waypoints_for_xaero
