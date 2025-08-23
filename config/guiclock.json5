@@ -4,17 +4,17 @@
 	// When enabled, will only show the real time when a clock is present in the inventory.
 	"mustHaveClockInInventoryForRealTime": true,
 	// Whether the clock in the GUI should be lowered when the player has potion effects to prevent overlap.
-	"lowerClockWhenPlayerHasEffects": true,
+	"lowerClockWhenPlayerHasEffects": false,
 	// Sets the format of the clock to the 24-hour format.
 	"_24hourformat": true,
 	// When enabled, shows the clock item icon instead of a clock with numbers.
-	"showOnlyMinecraftClockIcon": false,
+	"showOnlyMinecraftClockIcon": true,
 	// Show both in-game time and real local time.
-	"showBothTimes": false,
+	"showBothTimes": true,
 	// Show actual local time instead of in-game time.
-	"showRealTime": false,
+	"showRealTime": true,
 	// Show the seconds in the clock.
-	"showRealTimeSeconds": false,
+	"showRealTimeSeconds": true,
 	// Show the days played in the world.
 	"showDaysPlayedWorld": true,
 	// Places the GUI clock on the left.

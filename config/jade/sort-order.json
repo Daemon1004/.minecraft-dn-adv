@@ -66,5 +66,11 @@
   "pneumaticcraft:pneumatic": null,
   "pneumaticcraft:redstone": null,
   "pneumaticcraft:semiblock": null,
-  "pneumaticcraft:tube_module": null
+  "pneumaticcraft:tube_module": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null,
+  "toms_peripherals:full_modem_info": null,
+  "toms_peripherals:modem_info": null,
+  "toms_peripherals:wdt_info": null
 }
